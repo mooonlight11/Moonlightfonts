@@ -1,0 +1,131 @@
+/**attention this is a collection of handwriting fonts by moonlight - pls give credit if used!!**/
+
+
+@font-face {
+font-family: notebook;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/The-Notebook.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/The-Notebook.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: maryosh;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Maryosh.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Maryosh.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: caramel;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CaramelRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CaramelRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: chalk;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Chalkboard-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Chalkboard-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: money;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Mungil-Regular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/Mungil-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: castles crumbling;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGCastlesCrumbling-Normal.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGCastlesCrumbling-Normal.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: penmanship;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGPrimaryPenmanship.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/KGPrimaryPenmanship.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: more sugar thin;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarThin.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarThin.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: more sugar;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/MoreSugarRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: story lens;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/StoryLens.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/StoryLens.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: compass;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CompassBook.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/CompassBook.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: write me a song;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/please_write_me_a_song-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/please_write_me_a_song-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: notes;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ordinary_notes-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/ordinary_notes-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: milky lemon;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/milky_lemon-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/milky_lemon-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: harvest;
+src: url('https://raw.githubusercontent.com/mooonlight11/fonts/main/harvest_story-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/fonts/main/harvest_story-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: salmon;
+src: url('https://raw.githubusercontent.com/mooonlight11/font3/main/salmon_season-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/mooonlight11/font3/main/salmon_season-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
